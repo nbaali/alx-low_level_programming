@@ -14,8 +14,3 @@ int main(void)
 	return (0);
 }
 
-100-intel
-
-#!/bin/bash
-gcc -S -masm=intel $CFILE
-
